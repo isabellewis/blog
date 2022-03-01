@@ -1,6 +1,6 @@
-#Sproutl Blog
+# Sproutl Blog
 
-##Summary
+## Summary
 
 Built using create-react-app with typescript.
 
@@ -12,7 +12,7 @@ Solution in files:
 - config/types.ts
 
 
-##Scripts
+## Scripts
 
 ### `npm start`
 
